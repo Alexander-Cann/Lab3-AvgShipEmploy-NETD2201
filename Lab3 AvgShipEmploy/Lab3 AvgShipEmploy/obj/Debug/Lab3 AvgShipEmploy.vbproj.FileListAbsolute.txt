@@ -1,0 +1,12 @@
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\bin\Debug\Lab3 AvgShipEmploy.exe.config
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\bin\Debug\Lab3 AvgShipEmploy.exe
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\bin\Debug\Lab3 AvgShipEmploy.pdb
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\bin\Debug\Lab3 AvgShipEmploy.xml
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3 AvgShipEmploy.vbprojAssemblyReference.cache
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3_AvgShipEmploy.EmployeeShippedAverages.resources
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3_AvgShipEmploy.Resources.resources
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3 AvgShipEmploy.vbproj.GenerateResource.cache
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3 AvgShipEmploy.vbproj.CoreCompileInputs.cache
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3 AvgShipEmploy.exe
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3 AvgShipEmploy.xml
+C:\Users\Alexander Cann\OneDrive - Durham College\First Year Durham College Stuff\Term 2\Net Development 1\Lab3 AvgShipEmploy\Lab3 AvgShipEmploy\obj\Debug\Lab3 AvgShipEmploy.pdb
